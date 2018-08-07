@@ -1,0 +1,3 @@
+[submodule "ibeacon-playground"]
+	path = ibeacon-playground
+	url = https://github.com/jadonk/ibeacon-playground
